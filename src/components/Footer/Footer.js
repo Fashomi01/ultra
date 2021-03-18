@@ -85,7 +85,7 @@ const Footer = () => {
                         <SocialIcon />
                         ULTRA
                     </SocialLogo>
-                    <WebsiteRights>SEUNOLUWA &copy; 2021</WebsiteRights>
+                    <WebsiteRights>EMERSON &copy; 2021</WebsiteRights>
                     <SocialIcons>
                         <SocialIconLink href="/" target="_blank" aria-label="Facebook">
                             <FaFacebook />
